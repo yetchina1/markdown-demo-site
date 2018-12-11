@@ -12,7 +12,15 @@ Tesla conducted a range of experiments with mechanical oscillators/generators, e
 
 Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day Croatia). Tesla died on the 7th of January 1943 at the age of 86 in New York City, United States.
 
+## Table of contents
+[At a glance](#at-a-glance)
+  + [A move to the United States](#A-move-to-the-United-States)
+[Working at Edison](#working-at-edison)  
+[Patents](#patents)  
+[Legacy and honors](#legacy-and-honors)  
+[Credits](#credits)  
 
+## At a glance
 | Key             | Value | 
 |:----------------|---:|
 | Born            | 10 July 1856, _Modern-day Croatia_                        |
