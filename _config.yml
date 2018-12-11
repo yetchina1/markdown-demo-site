@@ -1,6 +1,6 @@
 title: Nikola Tesla
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/N.Tesla.JPG/184px-N.Tesla.JPG
 description: A one-pager on the life of Nikola Tesla
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
