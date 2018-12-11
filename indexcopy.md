@@ -2,124 +2,42 @@
 layout: default
 ---
 
-Copy of index.md 
+# Nikola Tesla
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Nikola Tesla was an inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern `alternating current (AC) electricity supply system`.
 
-[Link to another page](./another-page.html).
+Tesla conducted a range of experiments with mechanical oscillators/generators, electrical discharge tubes, and early X-ray imaging. Over 300 patents.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day Croatia). Tesla died on the 7th of January 1943 at the age of 86 in New York City, United States.
 
 
-### Definition lists can be used with HTML syntax.
+| Key             | Value | 
+|:----------------|---:|
+| Born            | 10 July 1856 Modern-day Croatia                             |
+| Died            | 7 January 1943 (aged 86) New York City, United States       |
+| Resting place   | 	Nikola Tesla Museum, Belgrade, Serbia                     |
+| Citizenship     | Austrian (1856–1891), American (1891–1943)                  |
+| Best known for  |  Modern alternating current (AC) electricity supply system  |
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Early years
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Legacy and honors
+- **Places**
+  1. Belgrade Nikola Tesla Airport 
+  1. Nikola Tesla Museum Archive in Belgrade 
+  1. TPP Nikola Tesla, the largest power plant in Serbia
+  1. 128 streets in Croatia had been named after Nikola Tesla as of November 2008, making him the eighth most common street name origin in the country
+  1. Tesla, a 26 kilometer-wide crater on the far side of the moon 
+  1. 2244 Tesla, a minor planet 
+- **Memorials**
+  1. The Nikola Tesla Memorial Centre in Smiljan, Croatia, opened in 2006.
+    
+![The Nikola Tesla Memorial Centre in Smiljan, Croatia](./assets/img/Muzej_Nikole_Tesle.jpg "The Nikola Tesla Memorial Centre in Smiljan, Croatia")
 
-```
-The final element.
-```
+## Credits
+* Content paraphrased from [Nikola Tesla Wikipedia page][Wikipedia page].  
+* Nikola Tesla picture sourced from [Wikimedia](https://commons.wikimedia.org/wiki/File:N.Tesla.JPG).  
+* Nikola Tesla Museum image courtesy [By sr:Корисник:JustUser - sr:wiki]
+
+[Wikipedia page]: https://en.wikipedia.org/wiki/Nikola_Tesla
+[By sr:Корисник:JustUser - sr:wiki]: https://commons.wikimedia.org/w/index.php?curid=3090675
