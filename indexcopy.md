@@ -14,8 +14,10 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 
 ## Table of contents
 - [At a glance](#at-a-glance)
-  + [A move to the United States](#A-move-to-the-United-States)
-- [Working at Edison](#working-at-edison)  
+- [New York laboratories](#New York laboratories)
+  - [Tesla coil](#tesla-coil)
+  - [Wireless lighting](#wireless-lighting)
+  - [Radio remote control](#radio-remote-control)
 - [Patents](#patents)  
 - [Legacy and honors](#legacy-and-honors)  
 - [Credits](#credits)  
