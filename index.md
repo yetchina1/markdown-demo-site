@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # Nikola Tesla
 
 Nikola Tesla was an inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern `alternating current (AC) electricity supply system`.
@@ -17,7 +18,7 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 - [New York laboratories](#new-york-laboratories)
   - [Tesla coil](#tesla-coil)
   - [Wireless lighting](#wireless-lighting)
-  - [Radio remote control](#radio-remote-control)
+  - [Radio remote control](#radio-remote-control)  
 - [Patents](#patents)  
 - [Legacy and honors](#legacy-and-honors)  
 - [Credits](#credits)  
@@ -28,14 +29,15 @@ Disclaimer: This site is used to demonstrate Markdown and is not intended to be 
 ```
 
 ## At a glance 
-| Key             | Value  | 
-|:----------------|---:|
-| Born            | 10 July 1856, _Modern-day Croatia_                        |
-| Died            | 7 January 1943 (aged 86), _New York City, United States_  |
-| Resting place   | Nikola Tesla Museum, _Belgrade, Serbia_                   |
-| Citizenship     | Austrian _(1856–1891)_, American _(1891–1943)_            |
-| Best known for  | Modern alternating current (AC) electricity supply system |
 
+| Key             | Value  |  
+|:----------------|---:|   
+| Born            | 10 July 1856, _Modern-day Croatia_                        |  
+| Died            | 7 January 1943 (aged 86), _New York City, United States_  |   
+| Resting place   | Nikola Tesla Museum, _Belgrade, Serbia_                   |   
+| Citizenship     | Austrian _(1856–1891)_, American _(1891–1943)_            |   
+| Best known for  | Modern alternating current (AC) electricity supply system |   
+   
 
 ## New York laboratories
 
