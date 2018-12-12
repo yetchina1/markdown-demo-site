@@ -20,6 +20,11 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 - [Legacy and honors](#legacy-and-honors)  
 - [Credits](#credits)  
 
+
+```
+Disclaimer: This site is used to demonstrate Markdown and is not intended to be a comprehensive outline of Nikola Tesla's life. 
+```
+
 ## At a glance
 | Key             | Value | 
 |:----------------|---:|
@@ -29,13 +34,20 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 | Citizenship     | Austrian _(1856–1891)_, American _(1891–1943)_            |
 | Best known for  | Modern alternating current (AC) electricity supply system |
 
-## Working at Edison
-### A move to the United States
 
-### A move to the United States
+## New York laboratories
+
+### Tesla coil
+Tesla found the discoveries of Heinrich Hertz refreshing and decided to repeat the experiment but found that the high frequency current overheated the iron core and melted the insulation between the primary and secondary windings in the coil. To fix this problem Tesla came up with his Tesla coil with an air gap instead of insulating material between the primary and secondary windings and an iron core that could be moved to different positions in or out of the coil.
+ 
+### Wireless lighting
+Tesla attempted to develop a wireless lighting system based on near-field inductive and capacitive coupling and conducted a series of public demonstrations where he lit Geissler tubes and even incandescent light bulbs from across a stage. 
+
+### Radio remote control
+Tesla demonstrated a boat that used a coherer-based radio control—which he dubbed "telautomaton"—to the public during an electrical exhibition at Madison Square Garden.[125] He tried to sell his idea to the U.S. military as a type of radio-controlled torpedo, but they showed little interest until World War I and afterward, when a number of countries used it in military progra
 
 ## Patents
-Tesla obtained around 300 patents worldwide for his inventions. Many inventions developed by Tesla were not put into patent protection.
+Tesla obtained around ~~280~~ 300 patents worldwide for his inventions. Many inventions developed by Tesla were not put into patent protection.
 
 ## Legacy and honors
 - **Places**
