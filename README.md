@@ -1,9 +1,9 @@
 # Customizing this site
 
 ## Table of contents
-[Making your site publicly visible](#making-your-site-publicly-visible)
-[Configuration variables](#configuration-variables)
-[Uploading files like images](#uploading-files-like-images)
++ [Making your site publicly visible](#making-your-site-publicly-visible)
++ [Configuration variables](#configuration-variables)
++ [Uploading files like images](#uploading-files-like-images)
 
 ### Making your site publicly visible
 You want to be able to access this site via a URL so you can share your work! Follow along to update the settings.
