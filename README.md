@@ -1,4 +1,4 @@
-# Customizing this site
+# Customizing this site :pencil:
 
 ## Table of contents
 + [Making your site publicly visible](#making-your-site-publicly-visible)
