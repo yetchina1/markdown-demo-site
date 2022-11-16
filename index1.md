@@ -3,11 +3,26 @@
 layout
 ---
 
+|Key      |Values         |Notes                |
+|:--------|:-------------:|--------------------:|
+| Born    |10 July 1986   | Modernday Croatia   |
+| Died    | 7 Jan 1943    | New york city, US   |
+| Education| Graz University of Tech | Abondoned | 
+
+
+
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png "tooltip text")
+
+![](thumbnail.png)
+
+
+
+
 Links like www.google.com will be automatically detected
 or if you want to chagne the hyperlinked text: [Link to Google](https://www.google.com)
 
-This is [Reference link][#1]
-#1: www.google.com
+This is [a Reference link to google][1]
+[1]: https://www.google.com
 
 
 
