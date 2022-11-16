@@ -1,5 +1,51 @@
 
+---
+layout
+---
 
+Links like www.google.com will be automatically detected
+or if you want to chagne the hyperlinked text: [Link to Google](https://www.google.com)
+
+This is [Reference link][#1]
+#1: www.google.com
+
+
+
+Nested lists:
+* Apples
+  * Milk
+    * Bread
+ * Eggs
+
+Lists using hyphen symbol:
+- Apples
+  - Milk
+    - Bread
+   -Eggs
+  
+  Lists using plus symbol:
+  + Appples
+    + Milk
+       1. Bananas
+       1. Oranges
+         + Bread
+         + Eggs
+  
+  
+  
+
+
+Shoppping lists orderedL:
+1. Apples
+2. Milk
+3. Bread
+4. Eggs
+
+Same as:
+1. Apples
+1. Milk
+1. Bread
+1. Eggs
 
 
 **Nikola Tesla**
