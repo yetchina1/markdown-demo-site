@@ -20,3 +20,22 @@ ___
 
 > ding dong bell
 > 
+
+Shopping lists:
+* Apples
+* Milk
+* Bread
+* Eggs
+
+
+Lists using hyphen symbol:
+- Apples
+- Milk
+- Bread
+- Eggs
+
+Lists using the Plus symbol:
++ Appples
++ Milk
++ Bread
++ Eggs
