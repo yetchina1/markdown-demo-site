@@ -3,6 +3,79 @@
 layout
 ---
 
+Cheekc list:
+
+- [ ] eat food
+- [ ] drink water
+- [ ] go for a walk
+- [x] finish the markdown
+
+# Adding emojis. you need to add the emoji code with quotation mark
+
+
+:blush:
+
+:smirk:
+
+:smiley:
+
+:kissing_closed_eye:
+
+
+
+:bowtie:
+
+:clap:
+
+:coffee:
+
+ \~
+ 
+ \_
+ 
+ \*
+ 
+ \{\}
+ 
+ \[\]
+ 
+ \(\)
+ 
+ \#
+ 
+ \+
+ 
+ \-
+ 
+ \.
+ 
+ \!
+ 
+ \`\`\`
+ 
+ 
+ 
+ Two asteric sybols \*\*
+
+# This is heading
+
+`this is inline code`
+
+**this is a bold text**
+
+This is `inline` code block
+
+This is  a code block:
+```js 
+// Javascript code with syntax highlighting.
+var ShowAlert = funciton lang(1) {
+alert ('Hello World');
+}
+```
+
+
+
+
 |Key      |Values         |Notes                |
 |:--------|:-------------:|--------------------:|
 | Born    |10 July 1986   | Modernday Croatia   |
